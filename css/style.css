@@ -1,0 +1,68 @@
+header{
+    display: inline-block;
+    background-color: #333333;
+    width: 100%;
+
+}
+
+header nav {
+    margin-left:17%;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0.5%;
+
+}
+
+/* header ul li {
+   
+} */
+body {
+    margin: 0;
+}
+main nav {
+    margin-left: 19%;
+    margin-top: 2%;
+    
+    
+}
+section{
+    margin-left: 18.5%;
+    margin-top: 0.5%;
+}
+section ul li{
+    display: inline-block;
+    margin: 0.8%;
+}
+
+article{
+    margin-left: 19%;
+    margin-top: 1.2%;
+}
+article nav{
+    float: right;
+    margin-right:35%;
+    margin-top: -29%;  
+}
+article h1{
+font-size: larger;
+font-weight: 100;
+
+}
+article p {
+    width:380px;
+    height: 320px;
+    overflow: scroll;
+    
+}
+article button{
+    margin-top: 10%;
+    margin-left: 5%;
+
+}
+footer{
+    width: 100%;
+    background-color: #555555;
+    margin-top: 2.5%;
+}
